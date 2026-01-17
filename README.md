@@ -1,9 +1,27 @@
 # Hey, I'm Shawn 👋
-Third-year at the University of Connecticut, interested in low-latency systems, machine learning, & ML Infra!
-## 💻 Languages & Technologies:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Third-year at the University of Connecticut, interested in low-latency software, deep learning, & ML systems!
+
+## 🔬 What I’m Working On
+- Graph Foundational Models & Graph Neural Networks
+- ML systems for LLM Training & Inference
+- High-performance C++ projects
+- Algorithmic Trading Infrastructure
 
 
+## 💾 Tech Stack
+<img src="https://skillicons.dev/icons?i=cpp,c,py,ts,git,linux,pytorch" />
+
+## 💻 Top Languages
+```
+C++          [██████████████░░░░░░] 69.48%
+Python       [████░░░░░░░░░░░░░░░░] 18.47%
+TypeScript   [█░░░░░░░░░░░░░░░░░░░] 5.43%
+CMake        [█░░░░░░░░░░░░░░░░░░░] 3.32%
+C            [░░░░░░░░░░░░░░░░░░░░] 0.92%
+JavaScript   [░░░░░░░░░░░░░░░░░░░░] 0.56%
+HTML         [░░░░░░░░░░░░░░░░░░░░] 0.53%
+Java         [░░░░░░░░░░░░░░░░░░░░] 0.35%
+Shell        [░░░░░░░░░░░░░░░░░░░░] 0.27%
+CSS          [░░░░░░░░░░░░░░░░░░░░] 0.26%
+```
 
