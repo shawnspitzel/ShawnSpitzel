@@ -5,7 +5,6 @@ Third-year at the University of Connecticut, interested in low-latency software,
 - Graph Foundational Models & Graph Neural Networks
 - ML systems for LLM Training & Inference
 - High-performance C++ projects
-- Storage Systems
 - Algorithmic Trading Infrastructure
 
 
