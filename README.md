@@ -5,7 +5,7 @@ cs + math student at uconn with keen interests in machine learning & software en
 - Graph Foundational Model Safety ([NeurIPS'26; pending](https://arxiv.org/html/2605.06576v1)), ([KDD'26; pending](https://arxiv.org/abs/2602.09258))
 - Agentic Memory & Orchestration
 - ML Systems, Serving & Infrastructure
-- Quantitative Trading Software ([uconn's first quant trading platform!](dashboard.uconnquant.com))
+- Quantitative Trading Software ([uconn's first quant trading platform!](https://dashboard.uconnquant.com))
 
 **Other Interests**
 - Computational Neuroscience
