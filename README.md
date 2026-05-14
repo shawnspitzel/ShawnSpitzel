@@ -1,28 +1,31 @@
 # Hey, I'm Shawn 👋
-Third-year at the University of Connecticut, interested in low-latency software, deep learning, & ML systems!
+cs + math student at uconn with keen interests in machine learning & software engineering. currently interning at Everpure, working on modern virtualization & infrastructure engineering.
 
-## 🔬 What I’m Working On
-- Graph Foundational Models & Graph Neural Networks
-- ML systems for LLM Training & Inference
-- High-performance C++ projects
-- Storage systems
-- Algorithmic Trading Infrastructure
+## 🔬 What I'm Working On
+- Graph Foundational Model Safety ([NeurIPS'26; pending](https://arxiv.org/html/2605.06576v1)), ([KDD'26; pending](https://arxiv.org/abs/2602.09258))
+- Agentic Memory & Orchestration
+- ML Systems, Serving & Infrastructure
+- Quantitative Trading Software ([uconn's first quant trading platform!](dashboard.uconnquant.com))
 
+**Other Interests**
+- Computational Neuroscience
+- Computer Architecture
+- GPU Programming
 
 ## 💾 Tech Stack
-<img src="https://skillicons.dev/icons?i=cpp,c,py,ts,git,linux,pytorch" />
+<img src="https://skillicons.dev/icons?i=cpp,c,py,ts,git,pytorch,kubernetes,linux" />
 
 ## 💻 Top Languages
 ```
-C++          [████████████░░░░░░░░] 57.69%
-Python       [█████░░░░░░░░░░░░░░░] 26.80%
-TypeScript   [██░░░░░░░░░░░░░░░░░░] 7.94%
-CMake        [█░░░░░░░░░░░░░░░░░░░] 3.93%
-JavaScript   [░░░░░░░░░░░░░░░░░░░░] 0.82%
-C            [░░░░░░░░░░░░░░░░░░░░] 0.67%
-Java         [░░░░░░░░░░░░░░░░░░░░] 0.51%
-HTML         [░░░░░░░░░░░░░░░░░░░░] 0.46%
-CSS          [░░░░░░░░░░░░░░░░░░░░] 0.38%
-Go           [░░░░░░░░░░░░░░░░░░░░] 0.34%
+Python       [██████░░░░░░░░░░░░░░] 29.92%
+C            [██████░░░░░░░░░░░░░░] 28.08%
+C++          [█████░░░░░░░░░░░░░░░] 25.21%
+TypeScript   [██░░░░░░░░░░░░░░░░░░] 8.75%
+Makefile     [░░░░░░░░░░░░░░░░░░░░] 1.82%
+HTML         [░░░░░░░░░░░░░░░░░░░░] 1.80%
+CMake        [░░░░░░░░░░░░░░░░░░░░] 1.66%
+Shell        [░░░░░░░░░░░░░░░░░░░░] 0.84%
+Assembly     [░░░░░░░░░░░░░░░░░░░░] 0.72%
+JavaScript   [░░░░░░░░░░░░░░░░░░░░] 0.36%
 ```
 _Last updated: 2026-01-23 18:49:40.681273_
