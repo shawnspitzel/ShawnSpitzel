@@ -10,7 +10,7 @@ cs + math student at uconn with keen interests in machine learning & software en
 **Other Interests**
 - Computational Neuroscience
 - Computer Architecture
-- GPU Programming
+- Audio Programming
 
 ## 💾 Tech Stack
 <img src="https://skillicons.dev/icons?i=cpp,c,py,ts,git,pytorch,kubernetes,linux" />
