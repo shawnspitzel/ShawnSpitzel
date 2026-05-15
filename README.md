@@ -1,5 +1,5 @@
 # Hey, I'm Shawn 👋
-cs + math student at uconn with keen interests in machine learning & software engineering. In particular, i enjoy working on complex, high-performance systems. currently interning at Everpure, working on modern virtualization & infrastructure engineering.
+cs + math student at uconn with keen interests in machine learning, software engineering, & high-performance systems. currently interning at Everpure, working on modern virtualization & infrastructure engineering.
 
 ## 🔬 What I'm Working On
 - Graph Foundational Model Safety ([NeurIPS'26; pending](https://arxiv.org/html/2605.06576v1)), ([KDD'26; pending](https://arxiv.org/abs/2602.09258))
