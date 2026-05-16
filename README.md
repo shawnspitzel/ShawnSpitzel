@@ -2,7 +2,7 @@
 cs + math student at uconn with keen interests in machine learning, software engineering, & high-performance systems. currently interning at Everpure, working on modern virtualization & infrastructure engineering.
 
 ## 🔬 What I'm Working On
-- Graph Foundational Model Safety ([NeurIPS'26; pending](https://arxiv.org/html/2605.06576v1)), ([KDD'26; pending](https://arxiv.org/abs/2602.09258))
+- Graph Foundational Model Safety ([KDD'26](https://arxiv.org/abs/2602.09258)), ([NeurIPS'26; pending](https://arxiv.org/html/2605.06576v1))
 - Agentic Memory & Orchestration
 - ML Systems, Serving & Infrastructure
 - Quantitative Trading Software ([uconn's first quant trading platform!](https://dashboard.uconnquant.com))
