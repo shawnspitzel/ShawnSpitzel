@@ -1,5 +1,5 @@
 # Hey, I'm Shawn 👋
-cs + math student at uconn with keen interests in machine learning, software engineering, & high-performance systems. 
+cs + math student at uconn with keen interests in machine learning, software engineering, & high-performance systems. previously interned at everpure (fka pure storage) on the modern virtualization team.
 ## 🔬 What I'm Working On
 - Graph Foundational Model Safety ([KDD'26](https://arxiv.org/abs/2602.09258)), ([NeurIPS'26; pending](https://arxiv.org/html/2605.06576v1))
 - Agentic Memory & Orchestration
